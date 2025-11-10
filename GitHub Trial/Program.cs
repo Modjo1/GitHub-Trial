@@ -7,3 +7,4 @@ Console.WriteLine("Hej jeg hedder Maria");
 
 
 Console.WriteLine("hej mit navn er Rebecca");
+Console.WriteLine("789");
